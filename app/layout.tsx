@@ -13,19 +13,19 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Aspirasi FRISQ",
   description: "Sampaikan Aspirasi Mu",
-  generator: "v0.app",
+  generator: "Aspirasi FRISQ System",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/smk bazma Sekunder.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/smk bazma alternatif putih-19.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/Logo Web RGB.png",
         type: "image/svg+xml",
       },
     ],
